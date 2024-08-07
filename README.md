@@ -6,7 +6,7 @@
 ## git push - Sobe o diretório para o GitHub
 ## git pull - atualiza o repositório local, significa dois comandos (git fetch e git merge)
 ## git log - Acessa o histórico da sua branch atual (main):
-## git tag -a v1.0 -m "Versão 1.0" - Cria uma tag do seu projeto
+## git tag -a v1.0 -m "Versão 1.0" - Cria uma tag do seu projet
 ## Inclua um título no index.html (ou outra modificação), crie uma branch com o nome feature/inclusão-do-título:
 git checkout -b feature/inclusão-do-título
 ## Edite index.html
